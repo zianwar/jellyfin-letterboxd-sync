@@ -21,6 +21,3 @@ CI = "https://github.com/zianwar/jellyfin-letterboxd-sync/actions"
 
 [project.scripts]
 jellyfin-letterboxd-sync = "jellyfin_letterboxd_sync:main"
-
-[project.optional-dependencies]
-test = ["pytest"]
