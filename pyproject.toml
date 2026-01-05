@@ -21,3 +21,6 @@ CI = "https://github.com/zianwar/jellyfin-letterboxd-sync/actions"
 
 [project.scripts]
 jellyfin-letterboxd-sync = "jellyfin_letterboxd_sync:main"
+
+[tool.setuptools]
+py-modules = ["jellyfin_letterboxd_sync"]
