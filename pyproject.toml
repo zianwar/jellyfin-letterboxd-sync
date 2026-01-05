@@ -1,6 +1,6 @@
 [project]
 name = "jellyfin-letterboxd-sync"
-version = "0.1.0"
+version = "0.1.4"
 description = "Sync watched status from Jellyfin to Letterboxd"
 readme = "README.md"
 requires-python = ">=3.13"
